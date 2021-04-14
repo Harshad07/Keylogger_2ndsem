@@ -1,9 +1,13 @@
-# Keylogger_2ndsem
+# ZLogger
+
+Remote persistent keylogger for Windows and Linux.
+
+Features:
+- Logs keys pressed on keyboard
+- Sends reports by email.
+- Starts with system startup.
+- Works with Linux and Windows.
+- Does not require root or admin privlages.
 
 
 
-run keylogger.sh bash file to run
-and enter details to generate exe file 
-
-
-~Inspired from zkeylogger 
