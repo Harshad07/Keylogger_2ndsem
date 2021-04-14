@@ -2,6 +2,8 @@
 
 
 
-~Inspired from zkeylogger 
 run keylogger.sh bash file to run
-and enter details to generate exe file
+and enter details to generate exe file 
+
+
+~Inspired from zkeylogger 
